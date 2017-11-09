@@ -1,6 +1,6 @@
 # SAT Scores in NYC Schools
 
-### This project explores SAT data and considers how various factors affect school performance
+### This project explores SAT data and considers how various factors affect student performance
 
 We find that predominately black schools are almost universally located in the central Bronx. Students in these schools
 report the lowest sense of safety and on average underpeform on the SAT.
